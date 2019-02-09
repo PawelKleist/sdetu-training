@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Pawel
+ *
+ */
+module JavaTraining {
+}
